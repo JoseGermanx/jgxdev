@@ -18,6 +18,11 @@
     "resumedownload":"cv_jg_dev.pdf",
     "social":[
       {
+        "name":"whatsapp",
+        "url":"https://wa.me/56984772281?text=Me%20interesa%20contactarte",
+        "className":"fa fa-whatsapp"
+      },
+      {
         "name":"facebook",
         "url":"http://facebook.com/betacode.cl",
         "className":"fa fa-facebook"
