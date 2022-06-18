@@ -1,0 +1,180 @@
+{
+  "main": {
+    "name":"José Germán Martínez",
+    "bussines":"BetaCode",
+    "occupation":"Ingeniero y desarrollador web.",
+    "description":"Diseño páginas web, aplicaciones web y móbiles. Trabajo para solucionar problemas de sistemas de mis clientes, utlizando las tecnologías JavaScript, HTML5, CSS, Node.js y bases de datos.",
+    "image":"jose_german.png",
+    "bio":"Tengo habilidades para el aprendizaje de nuevas tecnologías, el desarrollo de software y el diseño de aplicaciones. Mi principal interés en la actualidad es participar en nuevos proyectos de innovación en el área de desarrollo de software, principalmente como desarrollador full-stack apoyado en tecnologías de punta por lo cual me encuentro en constante aprendizaje autodidacta.",
+    "email": "jgermanmm@gmail.com",
+    "phone": "+56-984772281",
+    "address":{
+      "street":"Machalí",
+      "city":"Machalí",
+      "state":"VI Región",
+      "zip": "2910000"
+    },
+    "website": "https://github.com/josegermanx",
+    "resumedownload":"cv_jg_dev.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/betacode.cl",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/josegermanx/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/josegermanx",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/josegermanx",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Universidad de Oriente",
+        "degree":"Ingeniero Químico (Procesos)",
+        "graduated":"Febrero 2009",
+        "description":"Graduado de ingeniero químico con especialidad en gas natural."
+      },
+      {
+        "school":"Diplomado en Gestión Efectiva de Medios Digitales",
+        "degree":"Diplomado",
+        "graduated":"Junio 2018",
+        "description":"Desarrollo de habilidades para el efectivo manejo de contenidos en redes sociales."
+      },
+      {
+        "school":"Inbound HubSpot Academy",
+        "degree":"Certificación HubSpot Academy",
+        "graduated":"Enero 2018",
+        "description":"Desarrollo de habilidades para el efectivo manejo de contenidos en redes sociales."
+      },
+      {
+        "school":"Confluencia",
+        "degree":"Posicionamiento web para nuevas marcas en Posicionamiento web y marca personal",
+        "graduated":"Enero 2017",
+        "description":"Diseño de estrategias para garantizar el posicionamiento de sitios web - SEO y SEM."
+      }
+    ],
+    "work":[
+      {
+        "company":"RSA TELECOMUNICACIONES - Rancagua, O'Higgins",
+        "title":"Gerente Comercial y de Operaciones",
+        "years":"Febrero 2020 - Presente",
+        "description":"Liderar equipos de trabajo en diferentes áreas de la compañía, acompañando a la gerencia general en la toma de decisiones para el cumplimiento de metas. Seguimiento y control de procesos."
+      },
+      {
+        "company":"RSA TELECOMUNICACIONES - Rancagua, O'Higgins",
+        "title":"Líder de marketing digital",
+        "years":"Noviembre 2018 - Febrero 2020",
+        "description":"Coordinación y supervisión de campañas de marketing online a través de medios digitales (Google Ads y Facebook Ads, Waze Ads), enfocadas en lograr impulsar el canal de ventas digital, estimando proyección de ventas y ajustados a presupuestos establecidos según plan comerciales de la empresa."
+      },
+      {
+        "company":"FREELANCE",
+        "title":"Diseñador Web - Front End",
+        "years":"March 2011 - Presente",
+        "description":"Diseño de interfases web utilizando wordpress como sistema de back-end. Maquetado de las páginas en html5, estilos css e interacciones básicas con javascript. Del lado del servidor, ajustes en los temas manipulando el código php."
+      }
+    ],
+    "skills":[
+      {
+        "name":"WordPress",
+        "level":"95%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"40%"
+      },
+      {
+        "name":"My SQL",
+        "level":"78%"
+      },
+      {
+        "name":"React.JS",
+        "level":"20%"
+      },
+      {
+        "name":"CSS3",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"Node.JS",
+        "level":"50%"
+      },
+      {
+        "name":"PHP",
+        "level":"35%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"RSA TELECOMUNICACIONES",
+        "description":"Sistema de gestión de ventas y control de flujo de información entre áreas de la emrpresa.",
+        "category":"Sistema de gestión",
+        "tags":"WordPress, Apps, JavaScript",
+        "image":"coffee.jpg",
+        "url":"https://rsa-tel.cl",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"El Hoyo Delivery",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Design",
+        "tags":"Branding, WordPress, Apps",
+        "image":"console.jpg",
+        "url":"#",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"E Motion Graphi",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development and Design",
+        "tags":"Branding, Web Programming",
+        "image":"judah.jpg",
+        "url":"#",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Gamma Agency",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development and Design",
+        "tags":"Branding, Web Programming, Design",
+        "image":"into-the-light.jpg",
+        "url":"#",
+        "modal":"#modal-04"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Persona sería, dedicada y responsable. Durante el tiempo que estudiamos juntos, demostró estar involucrado con su carrera, le gustaba lo que hacía, sin duda, un buen capital humano para cualquier empresa del sector de ingeniería.",
+        "user":"Javier E. Barazarte-Larré "
+      },
+      {
+        "text":"Proactivo emprendedor y brillante! bastante comprometido con sus proyectos",
+        "user":"Cesar Alejandro Perez Liendo"
+      },
+      {
+        "text":"Me complace indicar que conozco al Ing. José Germán y puedo dar fe de sus cualidades morales y alto espíritu de superación personal. Creo que José resultaría una persona muy valiosa para cualquier empresa, debido a su gran disponibilidad para trabajar en equipo y su agradable don de gentes.",
+        "user":"Héctor José Rodríguez Jiménez"
+      }
+    ]
+  }
+}
